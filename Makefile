@@ -1,3 +1,4 @@
 compile:
-	go build server.go
-	go build client.go
+	go build server/receiver.go
+	go build client/sender.go
+	rm /tmp/build.sock
