@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 RPC server in Go
 ----------------
 This is a simple JSON-RPC server / client written in Go that allows the client
